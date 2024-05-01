@@ -1,7 +1,7 @@
 # Project
 PROJECTS
-**Historical Hurricane Data Analysis and Visualization                                              
-**•	Led comprehensive analysis and visualization initiative focusing on historical hurricane data spanning from 1851 to 2021. 
+Historical Hurricane Data Analysis and Visualization                                              
+•	Led comprehensive analysis and visualization initiative focusing on historical hurricane data spanning from 1851 to 2021. 
 •	Employed Python programming skills to process, clean, and organize raw hurricane data. 
 •	Established and managed a MongoDB database, utilizing PyMongo for seamless data storage and retrieval.
 •	Conducted in-depth data analysis using PyMongo queries to extract key insights into storm characteristics, including intensity, trajectory, and frequency. 
